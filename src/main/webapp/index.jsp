@@ -8,15 +8,17 @@
             color: purple;
         }
     </style>
+
+
+</head>
+<body>
     <title>DATE: 17/07/2023</title>
         <style>
             h1 {
                 color: blue;
             }
         </style>
-
-</head>
-<body>
+        
     <h1>Welcome to Munisys</h1>
     <p>This tutorial has been created by MIFDAL Oussama to introduce you to DevOps</p>
 </body>
