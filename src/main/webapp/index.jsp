@@ -13,12 +13,13 @@
     <h1>Welcome to Munisys</h1>
     <p>This simple tutorial has been created by MIFDAL Oussama to introduce you to DevOps</p>
     <h2>Date: <%= new java.util.Date() %></h2>
-    <h2>SI Team</h2>
-   <style>
-           h1 {
-               color: blue;
-           }
-      </style>
+    <h2>SI Team
+    <style>
+            h1 {
+                   color: blue;
+               }
+                </style>
+    </h2>
 </body>
 </html>
 
