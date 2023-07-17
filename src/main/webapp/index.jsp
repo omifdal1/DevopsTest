@@ -8,6 +8,13 @@
             color: purple;
         }
     </style>
+    <title>DATE: 17/07/2023</title>
+        <style>
+            h1 {
+                color: blue;
+            }
+        </style>
+
 </head>
 <body>
     <h1>Welcome to Munisys</h1>
