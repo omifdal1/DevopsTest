@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Welcome to Munisys</title>
+    <title>Welcome to Munisys Bouskoura</title>
     <style>
         h1 {
             color: #800080; /* Utilisez ici le code couleur hexadécimal ou le nom de la couleur approprié pour la teinte violette foncée souhaitée */
