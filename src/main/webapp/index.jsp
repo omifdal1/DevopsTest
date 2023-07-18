@@ -19,7 +19,6 @@
     <h1>Welcome to Munisys Bouskoura</h1>
     <h2>This simple tutorial has been created by MIFDAL Oussama & DRISSI Mohamed to introduce you to DevOps</h2>
     <h3>SI Team</h3>
-    <h2>2023</h2>
     <h4>Date: <%= new java.util.Date() %></h4>
     <h1>THANK YOU</h1>
 </body>
