@@ -17,7 +17,7 @@
 </head>
 <body>
     <h1>Welcome to Munisys2</h1>
-    <h2>This simple tutorial has been created by MIFDAL Oussama to introduce you to DevOps</h2>
+    <h2>This simple tutorial has been created by MIFDAL Oussama & DRISSI Mohamed to introduce you to DevOps</h2>
     <h3>SI Team</h3>
     <h4>Date: <%= new java.util.Date() %></h4>
 </body>
