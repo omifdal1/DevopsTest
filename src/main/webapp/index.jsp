@@ -16,7 +16,7 @@
     </style>
 </head>
 <body>
-    <h1>Welcome to Munisys Boskoura</h1>
+    <h1>Welcome to Munisys Bouskoura</h1>
     <h2>This simple tutorial has been created by MIFDAL Oussama & DRISSI Mohamed to introduce you to DevOps</h2>
     <h3>SI Team</h3>
     <h4>Date: <%= new java.util.Date() %></h4>
